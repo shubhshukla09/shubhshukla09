@@ -84,14 +84,14 @@
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <a href="https://github.com/shubh-shukla">
-    <img src="https://github-readme-stats.vercel.app/api?username=shubh-shukla&show_icons=true&theme=radical" alt="Shubh's GitHub stats" />
+  <a href="https://github.com/shubhshukla09">
+    <img src="https://github-readme-stats.vercel.app/api?username=shubhshukla09&show_icons=true&theme=radical" alt="Shubh's GitHub stats" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/shubh-shukla">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shubh-shukla&theme=radical" />
+  <a href="https://github.com/shubhshukla09">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shubhshukla09&theme=radical" />
   </a>
 </p>
 
@@ -101,7 +101,7 @@
 
 <p align="left">
 <a href="https://www.linkedin.com/in/shubh-shukla-9a4bb0328" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="linkedin" height="30" width="30" /></a>
-<a href="https://github.com/shubh-shukla" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="github" height="30" width="30" /></a>
+<a href="https://github.com/shubhshukla09" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="github" height="30" width="30" /></a>
 <a href="https://leetcode.com/u/ShubhShukla/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="30" width="30" /></a>
 <a href="https://www.hackerrank.com/profile/CS_2201640100284" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" alt="hackerrank" height="30" width="30" /></a>
 </p>
