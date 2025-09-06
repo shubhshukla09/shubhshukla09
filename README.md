@@ -40,7 +40,7 @@
 
 ## 🚀 Projects  
 
-### 🛒 E-Commerce Website *(Aug 2023 – Feb 2024)*  
+### 🛒E-Shop-- E-Commerce Website *(Aug 2023 – Feb 2024)*  
 **Tech Stack**: React, CSS, Node.js, Express, MongoDB, JWT, Stripe API  
 - Built a full-stack platform supporting **50+ products, secure login, and checkout**.  
 - Implemented **JWT authentication** improving session security by 40%.  
@@ -49,7 +49,7 @@
 
 ---
 
-### 🌍 Travel Booking Website *(Mar 2024 – Jun 2024)*  
+### 🌍TravelBook -- Travel Booking Website *(Mar 2024 – Jun 2024)*  
 **Tech Stack**: React, HTML, CSS, JavaScript  
 - Developed a responsive platform with **real-time search & filter** across 100+ packages.  
 - Improved navigation efficiency by **25%** with advanced filters and sorting.  
