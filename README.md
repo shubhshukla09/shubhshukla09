@@ -31,8 +31,8 @@
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=git" width="40" height="40"><br>Git</td>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=github" width="40" height="40"><br>GitHub</td>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=vscode" width="40" height="40"><br>VS Code</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=oracle" width="40" height="40"><br>Oracle</td>
-  </tr>
+<!--     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=oracle" width="40" height="40"><br>Oracle</td>
+  </tr> -->
 </table>
 </div>
 
